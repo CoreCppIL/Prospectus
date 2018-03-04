@@ -13,7 +13,7 @@ There are many benefits for supporting and sponsoring our local users group.
 
 ## Costs
 
-Support for our group is needed for the venew space and refreshments.  
+Support for our group is needed for the venue space and refreshments.  
 These rarely surpass $250 per meeting (split approximately 50-50 between the rent and pizzas). Receipts and invoices will be presented for all actual expenses.
 
 ## ROI
