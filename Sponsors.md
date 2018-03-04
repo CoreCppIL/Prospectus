@@ -2,14 +2,14 @@
 
 There are many benefits for supporting and sponsoring our local users group.
 
-- **Exposure:** Appearance on group page, mentions in the meetup. Good image and visibility for your company.
+- **Exposure:** Appearance on the group page and mentions in the meetup. Good image and visibility for your company.
 - **Education:** Attending the meetups increases knowledge in the community and specifically for any attending participant employees. This knowledge may directly impact your product quality.
-- **Leadership:** If a company employee gives a talk - it is again a great way to talk about the company and show it technological leadership.
-- **Introduction:** If you giving a talk it's an opportunity to get the name of the company out there and say a few words about it. If you are not speaking, you can send us a couple slides that we can present about your company at the start of the meeting.
-- **Professionals:** Participants are often, skilled potential candidates (some are actively looking others may be persuaded).
+- **Leadership:** If a company employee gives a talk - it is again a great way to talk about the company and show its technological leadership.
+- **Introduction:** If your emploee is giving a talk it's an opportunity to get the name of the company out there and say a few words about it. If you are not speaking, you can send us a couple slides that we can present about your company at the start of the meeting.
+- **Professionals:** Participants are often skilled potential candidates (some are actively looking others may be persuaded).
 - **Community:** Community contribution have always been a part of many companies' DNA - and this is certainly one way to do it.
-- **Recruitment:** When hosting/sponsoring a meeting, you are most welcome to give a brief intro and its a great opportunity to recruit.
-- **Advertising:** You are welcome to also raffle accessories such as licenses or tee shirts etc. 
+- **Recruitment:** When sponsoring a meeting, you are most welcome to give a brief intro which is a great opportunity to recruit.
+- **Advertising:** You are welcome to also raffle accessories such as stickers, licenses or tee shirts etc. 
 
 ## Costs
 
