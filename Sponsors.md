@@ -1,26 +1,41 @@
-# Sponsor us!
+# Sponsor Core C++!
 
-There are many benefits for supporting and sponsoring our local users group.
+Core C++ has a long-term mission to serve the needs of C++ developers in the Mevasserat Ziyyon area and we are interested in partnering with companies that share that long-term vision.
 
-- **Exposure:** Appearance on the group page and mentions in the meetup. Good image and visibility for your company.
-- **Education:** Attending the meetups increases knowledge in the community and specifically for any attending participant employees. This knowledge may directly impact your product quality.
-- **Leadership:** If a company employee gives a talk - it is again a great way to talk about the company and show its technological leadership.
-- **Introduction:** If your emploee is giving a talk it's an opportunity to get the name of the company out there and say a few words about it. If you are not speaking, you can send us a couple slides that we can present about your company at the start of the meeting.
-- **Professionals:** Participants are often skilled potential candidates (some are actively looking others may be persuaded).
-- **Community:** Community contribution have always been a part of many companies' DNA - and this is certainly one way to do it.
-- **Recruitment:** When sponsoring a meeting, you are most welcome to give a brief intro which is a great opportunity to recruit.
-- **Advertising:** You are welcome to also raffle accessories such as stickers, licenses or tee shirts etc. 
+Supporting and sponsoring Core C++ delivers value to companies in our community in a number of ways.
 
-## Costs
+Value directly to companies that sponsor or have employees speak:
 
-Support for our group is needed for the venue space and refreshments.  
-These rarely surpass $250 per meeting (split approximately 50-50 between the rent and pizzas). Receipts and invoices will be presented for all actual expenses.
+- **Recruitment** Nothing makes a company more attractive to community members when considering employment options than to see long-term community support as a sponsor and to see knowledgable speakers from that company talking about tackling challenging issues in interesting ways.
+- **Image and awareness** Members will gain a favorable impress of sponsoring companies and companies with knowledgable employees speaking.
+- **Product exposure** Swag opportunities and presentions expose members to new products and ideas.
+- **Community influence** Presenting provides the opportunity to influence community thinking about tools, processes, libraries, and features.
+- **Giving back** Sponsoring is a great way to support the community and be seen doing so.
+
+Value to employees as attendees or speakers:
+
+- **Better training** Employees that attend are better informed about best practices and new features and tools.
+- **Better engagement** Employees that attend have higher morale and are excited about applying what they've learned.
+- **Develop expertise** Researching a topic for a presentation is a valuable learning experience.
+- **Better leaders** Employees that participate as group speakers or organizers are learning leadership skills not always available in their regular roles.
+
+
+## Sponsorship
+
+### Rate
+
+Our Hosting Sponsorship is $250 per monthly meeting. This sponsorship covers our venue rental and refreshments.
+
+### Benefits
+
+* Listed on our group sponsor on our website.
+* Thanked in emails/announcements of the meeting as Hosting Sponsor.
+* (Sponsor provided) signage displayed next to refreshments.
+* Sponsors are welcome to distribute swag to each attendee or through raffles.
+* Thanked as Hosting Sponsor at each meeting with a short sponsorship message "Currently looking for senior C++ developers."
 
 ## ROI
 
-When considering the sponsorship of a local developer community user group, the question of ROI (Return on Investement) occasionally comes up. 
-The C++ developers who attend our user group are typically the top-professionals in their field.  
-If your company is hiring top-talent, then a _long-term_ sponsorship commitment increases the chance that attendees will consider you when looking at options.  
-Head-hunters and recruiters are typically paid 10% or more of starting salary for *each* technical hire such as our members. 
-This means that if you successfully hire one of our members, once every three or four years that is worth all that sponsorship money and more.
+C++ Core is run by hard-nosed engineers and we aren't asking for charity or for companies to support us to "feel good." We are offering value for value.
 
+We know that attracting talent is tough. Our groups attracts engineers that are eager to develop their skills and stay current with best practices. By providing a speaker you have the opportunity to influence and impress that group. By being a Hosting Sponsor, you have the opportunity to treat them to a quick bite. Either way, your support is delivering value though it may be hard to measure in the near term.
