@@ -34,7 +34,7 @@ Our Hosting Sponsorship is $250 per monthly meeting. This sponsorship covers our
 * Sponsors are welcome to distribute swag to each attendee or through raffles.
 * Thanked as Hosting Sponsor at each meeting with a short sponsorship message "Currently looking for senior C++ developers."
 
-## ROI
+## Business Case
 
 C++ Core is run by hard-nosed engineers and we aren't asking for charity or for companies to support us to "feel good." We are offering value for value.
 
