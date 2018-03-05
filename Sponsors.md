@@ -7,7 +7,7 @@ Supporting and sponsoring Core C++ delivers value to companies in our community 
 Value directly to companies that sponsor or have employees speak:
 
 - **Recruitment** Nothing makes a company more attractive to community members when considering employment options than to see long-term community support as a sponsor and to see knowledgable speakers from that company talking about tackling challenging issues in interesting ways.
-- **Image and awareness** Members will gain a favorable impress of sponsoring companies and companies with knowledgable employees speaking.
+- **Image and awareness** Members will gain a favorable impression of sponsoring companies and companies with knowledgable employees speaking.
 - **Product exposure** Swag opportunities and presentions expose members to new products and ideas.
 - **Community influence** Presenting provides the opportunity to influence community thinking about tools, processes, libraries, and features.
 - **Giving back** Sponsoring is a great way to support the community and be seen doing so.
@@ -38,4 +38,7 @@ Our Hosting Sponsorship is $250 per monthly meeting. This sponsorship covers our
 
 C++ Core is run by hard-nosed engineers and we aren't asking for charity or for companies to support us to "feel good." We are offering value for value.
 
-We know that attracting talent is tough. Our groups attracts engineers that are eager to develop their skills and stay current with best practices. By providing a speaker you have the opportunity to influence and impress that group. By being a Hosting Sponsor, you have the opportunity to treat them to a quick bite. Either way, your support is delivering value though it may be hard to measure in the near term.
+We know that attracting talent is tough. Our group attracts engineers that are eager to develop their skills and stay current with best practices. By providing a speaker you have the opportunity to influence and impress that group. By being a Hosting Sponsor, you have the opportunity to treat them to a quick bite. Either way, your support is delivering value though it may be hard to measure in the near term.
+
+When considering the sponsorship of a local developer community user group, the question of ROI (Return on Investement) occasionally comes up. The C++ developers who attend our user group are typically the top-professionals in their field.
+If your company is hiring top-talent, then a long-term sponsorship commitment increases the chance that attendees will consider you when looking at options. Head-hunters and recruiters are typically paid 10% or more of starting salary for each technical hire such as our members. If you successfully hire just one of our members once every three or four years, that is *already* worth the sponsorship investement.
