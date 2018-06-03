@@ -1,6 +1,6 @@
 # Sponsor Core C++!
 
-Core C++ has a long-term mission to serve the needs of C++ developers in the Mevasserat Ziyyon area and we are interested in partnering with companies that share that long-term vision.
+Core C++ has a long-term mission to serve the needs of C++ developers in Israel and we are interested in partnering with companies that share that long-term vision.
 
 Supporting and sponsoring Core C++ delivers value to companies in our community in a number of ways.
 
@@ -28,7 +28,7 @@ Our Hosting Sponsorship is $250 per monthly meeting. This sponsorship covers our
 
 ### Benefits
 
-* Listed on our group sponsor on our website.
+* Listed as our group sponsor on our website.
 * Thanked in emails/announcements of the meeting as Hosting Sponsor.
 * (Sponsor provided) signage displayed next to refreshments.
 * Sponsors are welcome to distribute swag to each attendee or through raffles.
